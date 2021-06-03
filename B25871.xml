@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter giving a particular account of the proceedings of the Scots Parliament relating to some of the ministers of state of that kingdom.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25871</idno><idno type="EEBO-CITATION">99828394</idno>
+  <idno type="VID">207811</idno>
+  <idno type="EEBO-PROQUEST">2240883344</idno>
+  
+            <idno type="STC">Wing L1549A</idno>
+            <idno type="PROQUEST">99828394</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828394e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25871)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207811)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1953:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter giving a particular account of the proceedings of the Scots Parliament relating to some of the ministers of state of that kingdom.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of the original in the Trinity College (University of Cambridge) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:207811:1"/>
+            <pb n="1" facs="tcp:207811:1"/>
+            <head>A LETTER Giving a particular ACCOUNT OF THE PROCEEDINGS OF THE Scots Parliament, Relating to some of the <hi>Ministers of State of that Kingdom.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am sorry I cannot at present give you a Satisfactory Answer to all your Queries about our <hi>Scotch</hi> Parlia<g ref="char:EOLhyphen"/>ment and Parties: But having informed my self suf<g ref="char:EOLhyphen"/>ciently of what related to the Viscount <hi>Staire,</hi> I here send you what I know in that matter. And in place of Answer to your other Questions, I give you an account of the Impeachment of another of our Peers of that same Party.</p>
+            <pb n="2" facs="tcp:207811:2"/>
+            <p> But first know, our two Parties have got just now each of them a new Name; the <hi>Mob,</hi> consisting (as the other pretends) of the meaner People, and a few of the Nobility, but these very inconsiderable, as being inferiour to the rest both in Parts and Estates; and the <hi>Nob,</hi> because the Per<g ref="char:EOLhyphen"/>sons of greatest Quality and Estates, and to tell truth, the whole Nobility almost are on that side. Before the Parlia<g ref="char:EOLhyphen"/>ment sat down, there was a great noise of mutual Im<g ref="char:EOLhyphen"/>peachments. <hi>Mob</hi> was to be accused of infamous Bribery, whereof he was guilty last Session of Parliament; and <hi>Nob</hi> of having misapplied the King's Money: But when our States-Men came from <hi>London,</hi> we were informed that the King had given such strict Orders to shun all occasion of Heats, (as being prejudicial to his Affairs both at home and abroad) that these Accusations were to be laid aside until a more convenient time. Truly, I think there is no just Ground for these Accusations; for <hi>Nob</hi> doth now lay their Account-Books open to the view of all who who desire to know how the King's Money was imploy<g ref="char:EOLhyphen"/>ed: And all that can be said of <hi>Mob</hi> is, what he openly owneth, that he accepted of a Civil Compliment of some Thousands of Guineas from some of the principal <hi>Burghs</hi> of this Kingdom for good Services he did them by his Vote, and his Power in the Parliament.</p>
+            <p>We were pleasing of our selves with the hopes that things should be carried on with some tolerable modera<g ref="char:EOLhyphen"/>tion for the good of the Country, when <hi>June</hi> 3d. all broke out to open War; for one <hi>Duncan Robertson,</hi> in<g ref="char:EOLhyphen"/>stigated, I fear, (at least encouraged and supported) by <hi>Mob,</hi> presented a Petition to the Parliament against the Viscount <hi>Staire,</hi> Lord President of the Session, complain<g ref="char:EOLhyphen"/>ing that the said Viscount had pronounced an unjust Sen<g ref="char:EOLhyphen"/>tence against him, whereby he had preferred Mr. <hi>Patrick
+<pb n="3" facs="tcp:207811:2"/>Smith</hi> to the Executry and moveable Goods of the de<g ref="char:EOLhyphen"/>ceased Bishop of <hi>Galloway;</hi> and <hi>Insinuating,</hi> that this was done upon a view of a Transaction with Mr. <hi>Patrick</hi> of a Debt due by the said Viscount to the Bishop, and that accordingly the Viscount got an ease of the same, and <hi>Craving</hi> that the Viscount might be summoned to compear before the Parliament to answer to this Accusation.</p>
+            <p>It was urged and carried for the Viscount, that one of his Character and Quality could not be summoned up<g ref="char:EOLhyphen"/>on the meer assertion of so inconsiderable a Person, un<g ref="char:EOLhyphen"/>til the Parliament should consider what Grounds there were for it; whereupon it was proposed by some, that the precognition thereof should be remitted to a Committee to be chosen for that particular end: but it was carried against the Viscount by very few Votes that it should be remitted to the Committee of Safety, who were appointed to give their Report in open Parliament the 10th. of the said Month. The Committee accordingly having examined many Wit<g ref="char:EOLhyphen"/>nesses upon the first and most material Article of the Complaint, <hi>viz.</hi> the Injustice of the Sentence; nothing was proved against the Viscount. On the contrary it was proved by the express Depositions of the Lords of the Session themselves, and of Mr. <hi>Duncan</hi>'s own Advocate, that the thing was fairly done, so that he thought it not fit to insist in the other Articles. Upon the 10th. of <hi>June,</hi> the Day appointed for Reporting, it was desired that the Parliament would call for the Report of the Committee, and either declare the Lord President Guilty, or, if nothing should be proved against him, that they would acquit him, and appoint a suitable Punishment for the Libeller for so impudent a Calumny; nothing of that could be heard that Day, there was a greater Business then in hands which put a stop to all others, I mean the Im<g ref="char:EOLhyphen"/>peachment of the Earl of <hi>Breadalbane,</hi> which was carried on thus.</p>
+            <pb n="4" facs="tcp:207811:3"/>
+            <p> There was exhibited a Deposition of <hi>— Mac Donald Glengary,</hi> wherein he deponed, that in the year 1692. the Earl of <hi>Breadalbane</hi> being imployed to treat with the <hi>Highland</hi> Army, did by Articles agreed upon betwixt him and them, engage that several Conditions there particu<g ref="char:EOLhyphen"/>larised falling out, he, the said Earl of <hi>Breadalbane</hi> should with all his Friends and Followers, join the said <hi>Highland</hi>-Army against King <hi>William;</hi> this Deposition being read, it was urged that the King's Advocate should be ordered to commence and insist in a Process of High Treason against his Lordship, and that he in the mean time should be committed to the Castle of <hi>Edinburgh.</hi>
+            </p>
+            <p>It was pleaded for the Earl that this Accusation being an absolute Surprise, it could not be imagined he could sa<g ref="char:EOLhyphen"/>tisfy this House so well immediately, as after a little de<g ref="char:EOLhyphen"/>liberation he might be able to do, wherefore he intreat<g ref="char:EOLhyphen"/>ed the Impeachment might be forborn until the next meeting, at which time he doubted not but that he should make it clearly appear that there was no ground for it.</p>
+            <p>This not being granted, it was further pleaded for him, that this Deposition of <hi>Glengary</hi>'s being <hi>Ʋltroneous,</hi> he never being summoned for that effect by the Authority of any Judge, cannot be sustained in Law, and conse<g ref="char:EOLhyphen"/>quently cannot be a Foundation of a Process of High Treason; especially, considering that the said <hi>Glengary,</hi> being a Roman Catholick, continued in Rebellion against his present Majesty, never having submitted to the Go<g ref="char:EOLhyphen"/>vernment, unless he had privately done it at this time, and that he carried an inveterate enmity to the said Earl and his Family; neither did this prevail.</p>
+            <pb n="5" facs="tcp:207811:3"/>
+            <p> It was further pleaded for the Earl that he had an ample Commission from the King to do in that Affair all that he should judge fit for effectuating it; That his Majesty and all the World know that in such Negotiations, there must be allowances for men to go, or at least to pretend to go some lengths, and to use such condescendencies as in pru<g ref="char:EOLhyphen"/>dence they shall find most taking and fitted for accomplishing the design; That the Effect had justified the Methods he had used; That not only they there Sitting, and their Constituents at home, who suffered most in that unnatural War; but also the Kingdom of <hi>England,</hi> who for its own safety was obliged to maintain some Regiments here for several years with little or no success, yea, and all the Confederacy had reaped advantage by his Conduct in that Treaty: many Troops and much money being now im<g ref="char:EOLhyphen"/>ployed against the Common Enemy abroad, which that troublesome War had for several years exhausted here at home. That, seeing the thing it self was beyond all questi<g ref="char:EOLhyphen"/>on good and advantagious for the Nation, it was thought strange that these persons who were most Advantaged by it should take exceptions against the particular Methods which his Prudence obliged him to take in carrying it on; however, his Lordship had made known to their Majesties whatever he had said or done in that Affair, and had their approbation.</p>
+            <p>Upon some one's pretending that the things now libelled were not then known, it was answered, that upon a Com<g ref="char:EOLhyphen"/>plaint given against the Earl for these very things he is now accused of, his Majesty recommended to the Privy Council to make enquiry into the Matter, which accord<g ref="char:EOLhyphen"/>ingly was done and transmitted to the King: That the Minutes of the Council did clearly show all this; there<g ref="char:EOLhyphen"/>fore it was begged these Minutes might be called for. But
+<pb n="6" facs="tcp:207811:4"/>that being refused, the Earl of <hi>Melvil</hi> Lord Privy Seal, and then Secretary of State, avouched the truth of what had been said, and positively asserted that the Precognition taken by the Council was upon a Complaint, if not in the same words, at least to the same purpose with what was contained in <hi>Glengary</hi>'s Deposition: That it was sent by the Council to him: That he shewed it to the Queen, (the King being then in <hi>Flanders</hi>) who kept it a whole night. That the next day he transmitted it to the King, who (he knew by the returns he got from <hi>Flanders</hi>) received, and perused it. And all this upon his Honour.</p>
+            <p>The Duke of <hi>Queensbury</hi> declared likewise upon Honour that it consisted with his knowledge that his Ma<g ref="char:EOLhyphen"/>jesty received the same, he being then in <hi>Flanders</hi> with the King, and having heard him discourse of the Matter very often.</p>
+            <p>Whereupon it was urged, seeing his Majesty had taken to his own consideration the Earl's behaviour in that Affair; seeing that he had been informed of all the Methods of his procedure in it, and seeing he had shown his Satisfaction with the Earl's Conduct, by prefering him at that time to several Places of Honour and Trust, as that of Privy Councellour, Commissioner of the Treasury, <hi>&amp;c.</hi> That the Parliament would not proceed in a Matter of such im<g ref="char:EOLhyphen"/>portance against one of his Majesty's Ministers of State, until he were first acquainted with it; but this was re<g ref="char:EOLhyphen"/>fused also: Whereupon it was desired again in behalf of the Earl that they would delay their proceeding at least until the next meeting. Upon this the House divided as to the State of the Vote; Some would have it to be <hi>Proceed</hi> or <hi>Delay,</hi> and others, <hi>Insist</hi> or <hi>Not.</hi> This was put to the Vote, and it was carried by eleven that the latter should
+<pb n="7" facs="tcp:207811:4"/>be the Vote. And afterwards by another Vote, it was carried that the King's Advocate should insist immediately; whereupon there was an order of Parliament signed for committing the Earl to the Castle, whither accordingly his Lordship was carried Prisoner, at the rising of the Par<g ref="char:EOLhyphen"/>liament, the same day.</p>
+            <p>There happened one thing I must not forget: The <hi>Peers</hi> seeing every point carried against them, in the heat of their Debate rose up all at once, seeming to be in great rage. His Grace the Commissioner, something surprised, told them this looked tumultuous-like, (and truely it did discover that they were highly provoked) they answered they meant no such thing, but to show their common and unanimous dissenting from such precipitate practices. I never did see the Nobility so unanimous as in this Affair, there being but five or six of the most inconsiderable who join'd with the other Party. I must be so just to the Earl, as to tell you likewise that all this was done on a <hi>Monday,</hi> when the House is not so frequent as at other times; for many going to the Country on the <hi>Saturdays,</hi> these who are not so intrigueing as the others, not knowing that there is any business of importance to be done, do generally not return until <hi>Monday's</hi> Evening.</p>
+            <p>Its probable we may have abundance of such News as this for some time; it being confidently talked that the Earl of <hi>Argile</hi> is likewise to be Impeached. I am told he is threatned with it, unless he join to the other side; and not inclining to do that, it's surmised his Lordship is to withdraw some time, until the heat be over. The disaf<g ref="char:EOLhyphen"/>fected persons hope to make some advantage of these dif<g ref="char:EOLhyphen"/>ferences, and to work up the irritated humors to some<g ref="char:EOLhyphen"/>thing for their purpose. <hi>I pray God send Peace in our days.</hi>
+            </p>
+            <pb n="8" facs="tcp:207811:5"/>
+            <p> One thing more I must say of my Lord <hi>Breadalban</hi>'s Affair. I know not whether it be of design, or by chance, that in the Minutes of Parliament relating to it, there is still mention made of the Massacre of the <hi>Glenco<g ref="char:EOLhyphen"/>men,</hi> which makes the less considerate sort of people be<g ref="char:EOLhyphen"/>lieve, That that is a part of the Crime his Lorship is now impeached of. Doubtless your Prints will run in the same strain. But, after the most diligent search into that matter, nothing is sound that can be charged on him.</p>
+            <closer>
+               <dateline>
+                  <date>June 14. 1695.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Year 1695:</p>
+            <pb facs="tcp:207811:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
